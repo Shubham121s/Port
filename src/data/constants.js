@@ -310,7 +310,7 @@ export const projects = [
       "NodeMailer",
     ],
     category: "web app",
-    github: "",
+    github: "https://github.com/Shubham121s/E_Commerce",
     webapp: "",
   },
   {
