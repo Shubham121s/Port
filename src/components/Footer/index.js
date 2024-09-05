@@ -102,7 +102,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="_blank"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Shubham kumar Poddar. All rights reserved.
+          &copy;2024 Shubham.All Rights Reserved.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>
