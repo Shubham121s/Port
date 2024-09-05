@@ -1,7 +1,7 @@
 import study from "../images/StudyNotion.png"
 import blog from "../images/Blog.png"
 import ecommerce from "../images/Ecommerce.png"
-import health from "../images/Health.png"
+import npm from "../images/npm.png"
 import job from "../images/Job.png"
 import mobile from "../images/Mobile.png"
 import Finance from "../images/Finance.png"
@@ -342,16 +342,16 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Online Health Monitoring System",
+    title: "Counter App npm Package ",
 
     description:
-     "Created a comprehensive Online Health Monitoring System using the MERN stack, facilitating real-time health tracking and data visualization. The system integrates MongoDB for robust data storage, Express.js for efficient backend development, React for dynamic frontend interfaces, and Node.js for server-side execution. This project enhances user experience with interactive health metrics and visual representations, promoting proactive health management. It demonstrates proficiency in full-stack development, emphasizing scalable architecture and responsive design principles.",
-    image:
-      health,
-    tags: ["MongoDB", "Express.js", "ReactJS", "Node.JS"],
+     "A React package offering a custom useCounter hook and a Button component for managing a counter with increment and decrement functionality. Styled using CSS for a simple, clean UI.Key Features:Custom useCounter hook for counter logic, Reusable Button component, External CSS styling. Easily integrates into React projects.",
+     image:
+      npm,
+    tags: [ "ReactJS", "TypeScript","Rollup",],
     category: "web app",
-    github: "https://github.com/Shubham121s/Online_Health_Monitoring_System",
-    webapp: "",
+    github: "https://github.com/Shubham121s/pack-to-si",
+    webapp: "https://www.npmjs.com/package/pack-to-si",
   },
   {
     id: 10,
