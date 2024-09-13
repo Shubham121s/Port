@@ -9,7 +9,7 @@ import Rock from "../images/Rock.png"
 import sorting from "../images/Sorting.png"
 import stock from "../images/Stock.png"
 import text from "../images/Text.png"
-import weather from "../images/Weather.png"
+import code from "../images/Code.png"
 
 
 
@@ -357,16 +357,16 @@ export const projects = [
   },
   {
     id: 10,
-    title: "Weather App",
+    title: "Code_IDE",
    
     description:
-      "A weather app provides real-time weather information, forecasts, and updates, helping users stay informed about current and upcoming weather conditions.",
+      "A lightweight IDE built using the MERN stack, allowing users to create and run projects with HTML, CSS, and JavaScript. The backend (Node.js, Express) manages file operations, user sessions, and project execution, while MongoDB stores user data and project files. The frontend (React) provides an intuitive interface to write, edit, and preview code in real-time, including built-in support for syntax highlighting and auto-completion. This IDE enables easy testing and visualization of front-end code with seamless integration and efficient workflow management.",
     image:
-      weather,
-    tags: ["React", "Tailwind css", "OpenWeatherMap",],
+      code,
+    tags: ["React.Js", "Express.JS","Node.Js","MongoDB"],
     category: "web app",
-    github:"https://github.com/Shubham121s/Weather_App",
-    webapp: "https://weather-app-ddc4.vercel.app/",
+    github:"https://github.com/Shubham121s/Code_IDE",
+    webapp: "",
   },
   {
     id: 4,
