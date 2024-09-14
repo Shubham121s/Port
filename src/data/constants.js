@@ -175,7 +175,7 @@ export const experiences = [
     role: "IT Intern",
     company: "DIGISAMAKSH private Limited",
     date: "July 2024-Sep 2024",
-    desc: "Made UI (100% responsive for all types of devices) for several projects with complex designs. • Efficient (100% working and tested) API integrations, Authentication, other features implementations to projects. Worked on NextJs, Tailwind CSS, Email Templates, HTML5, CSS3.",
+    desc: "Crafted 100% responsive UIs for complex, high-traffic projects, utilizing Next.js and Tailwind CSS to ensure pixel-perfect performance across all devices.Executed seamless API integrations and advanced authentication systems, guaranteeing secure and efficient project functionality.Designed visually compelling email templates and implemented intuitive features, enhancing both user engagement and system reliability.",
     skills: [
       "HTML5",
       "CSS3",
@@ -195,7 +195,7 @@ export const experiences = [
     role: "Software Developer Intern",
     company: "Green Code Software private Limited",
     date: "August 2024-Sep 2024",
-    desc: "Build UI components(90-95% accurate) for website and explore design tool Figma and version control Git, Github.Engaged with a technology stack that includes ReactJs, Javascript, HTML5, CSS3, GitHub, Figma",
+    desc: "Crafted highly interactive UI components with 90-95% precision, leveraging ReactJS, JavaScript, HTML5, and CSS3 for a dynamic web experience.Mastered Git and GitHub for effective version control, streamlining project management and team coordination.Designed unique, responsive, and accessible interfaces, pushing the boundaries of modern UI/UX standards.",
     skills: [
       "HTML5",
       "Tailwind CSS",
@@ -217,7 +217,7 @@ export const experiences = [
     role: "Web Developer Intern",
     company: "CodeAlpha",
     date: "March 2024 - April 2024",
-    desc: "Implemented a feature that can fetch Firebase remote config data and show that to the react implemented UI. Made the whole website, and enhanced UI with responsiveness. Implement animations and attractive card and component styles to make better user experience. Worked on tech-stack involving Next JS, Tailwind, JavaScript, HTML, CSS, Firebase.",
+    desc: "Developed a feature to dynamically fetch Firebase Remote Config data, integrating it into a React-powered UI for real-time updates and customization.Designed and built a responsive, user-centric website with engaging animations and interactive card components, optimizing for smooth and captivating user journeys.Applied a modern tech stack, including Next.js, Tailwind CSS, and Firebase, to deliver a fast, visually polished web experience across all devices.",
     skills: [
       "HTML",
       "CSS",
