@@ -174,7 +174,7 @@ export const experiences = [
     img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-ymzPRYOnfpjdiSOejPGXF_AWi2kI-ho-LHW9aEvRkUpZn5zwU1hmBRf42Q&s",
     role: "IT Intern",
     company: "DIGISAMAKSH private Limited",
-    date: "Present-July 2024",
+    date: "July 2024-Sep 2024",
     desc: "Made UI (100% responsive for all types of devices) for several projects with complex designs. • Efficient (100% working and tested) API integrations, Authentication, other features implementations to projects. Worked on NextJs, Tailwind CSS, Email Templates, HTML5, CSS3.",
     skills: [
       "HTML5",
