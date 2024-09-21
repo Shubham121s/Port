@@ -57,6 +57,10 @@ export const skills = [
         image: "https://www.w3.org/html/logo/badge/html5-badge-h-solo.png",
       },
       {
+        name: "Jquery",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM46UmKP_IaPy34N9lsi1hF0hHeX_vBpZLDA&s",
+      },
+      {
         name: "CSS",
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1452px-CSS3_logo_and_wordmark.svg.png",
