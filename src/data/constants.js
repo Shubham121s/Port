@@ -178,7 +178,7 @@ export const experiences = [
     role: "Backend Developer Intern",
     company: "Firstricoz Private Limited",
     date: "Present-Oct 2024",
-    desc: "Developed and maintained RESTful APIs using Node.js and Express.js, Integrated MongoDB databases and optimized queries for performance , Ensured data security and application scalability, Collaborated with front-end teams for seamless API integration, Wrote unit tests and debugged issues to improve system reliability.",
+    desc: "Developed and maintained RESTful APIs using Node.js and Express.js, Integrated MongoDB databases and optimized queries for performance, Ensured data security and application scalability, Collaborated with front-end teams for seamless API integration, Wrote unit tests and debugged issues to improve system reliability.",
     skills: [
       "Node.js",
       "mongoDB",
