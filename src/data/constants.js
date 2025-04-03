@@ -121,6 +121,12 @@ export const skills = [
         name: "Firebase",
         image: "https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg",
       },
+      {
+        name: "Django",
+        image:
+          "https://www.google.com/imgres?q=django%20logo&imgurl=https%3A%2F%2Fwww.svgrepo.com%2Fshow%2F353657%2Fdjango-icon.svg&imgrefurl=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F353657%2Fdjango-icon&docid=5PquRjLTfaMEzM&tbnid=T0wTWBwRlkTXQM&vet=12ahUKEwixyNbE07uMAxUdxKACHVYSLMYQM3oECGQQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwixyNbE07uMAxUdxKACHVYSLMYQM3oECGQQAA",
+      },
+      
     ],
   },
 
