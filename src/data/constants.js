@@ -23,7 +23,7 @@ export const Bio = {
     "Programmer",
   ],
   description:
-    "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
+    " I am a motivated and versatile individual with 1 year of experience as a full stack developer, always eager to take on new challenges. With a passion for learning, I am dedicated to delivering high-quality results. Guided by a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/Shubham121s",
   resume:
     "https://drive.google.com/file/d/1N4pYYiE96OzcUwaGCHRAtw8AB68oDJ6H/view?usp=sharing",
