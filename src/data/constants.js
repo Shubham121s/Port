@@ -253,6 +253,7 @@ export const experiences = [
       "Express.js",
       " Next.Js",
       "Firebase"
+      "database"
     ],
 
   },
